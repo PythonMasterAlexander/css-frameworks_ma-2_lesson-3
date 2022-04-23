@@ -1,0 +1,14 @@
+.footerContainer {
+  color: var(--white-color);
+  background-color: var(--background-color);
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.footerHeading {
+  font-size: 1.5rem;
+  font-weight: 800;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

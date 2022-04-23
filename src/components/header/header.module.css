@@ -1,0 +1,21 @@
+.headerHeading {
+  color: var(--main-text-color);
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.pageLink {
+  color: var(--white-color);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-right: 40px;
+}
+
+.textInCenter {
+  text-align: center;
+}
+
+.headerSection {
+  margin: 40px 0;
+}

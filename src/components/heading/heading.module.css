@@ -1,0 +1,31 @@
+.containerSection {
+  display: flex;
+  justify-content: space-around;
+  gap: 40px; 
+  margin-top: 50px;
+}
+
+.backgroundSectionColorWhite {
+  border-radius: 10px;
+  background-color: var(--white-color);
+  height: 200px;
+  width: 100%;
+}
+
+.backgroundSectionColorDark {
+  border-radius: 10px;
+  background-color: var(--card-background-black-color);
+  color: var(--white-color);
+  height: 200px;
+  width: 100%;
+}
+
+.heading {
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.paragraph {
+  box-sizing: border-box;
+  padding: 20px;
+}

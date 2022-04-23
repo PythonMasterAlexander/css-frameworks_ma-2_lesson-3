@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+}
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  --background-color: #111222;
+  --white-color: #ffffff;
+  --main-text-color: #CC226A;
+  --card-background-orange-color: #E88E13;
+  --card-background-black-color: #000000;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+  background-color: var(--background-color);
+  flex: 1 0 auto;
+}
